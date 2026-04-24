@@ -103,5 +103,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  Built with ❤️ by the PropIndex Team
+  Built with ❤️ by the Ashish Saini (LiveALYX)
 </p>
